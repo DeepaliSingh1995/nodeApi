@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Creating basic node api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepaliSingh1995/nodeApi.git"
+  },
+  "author": "Deepali Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepaliSingh1995/nodeApi/issues"
+  },
+  "homepage": "https://github.com/DeepaliSingh1995/nodeApi#readme"
+}
